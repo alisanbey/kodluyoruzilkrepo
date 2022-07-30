@@ -25,7 +25,7 @@ için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu
 
 ## Project Image
 
-![gorsel](index.html)
+![gorsel](C:\Users\alisa\Documents\DEV\kodluyoruzilkrepo\proje gorseli.png)
 
 ## License
 
