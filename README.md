@@ -2,6 +2,8 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın. (https://github.com/alisanbey/kodluyoruzilkrepo.git)
@@ -22,10 +24,6 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler 
 için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
-## Project Image
-
-![gorsel](C:\Users\alisa\Documents\DEV\kodluyoruzilkrepo\proje gorseli.png)
 
 ## License
 
